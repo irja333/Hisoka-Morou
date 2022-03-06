@@ -80,7 +80,7 @@ async function startHisoka() {
                 }
 
                 if (anu.action == 'add') {
-                    hisoka.sendMessage(anu.id, { thumbnail: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `*Selamat datang @${num.split("@")[0]} Di ${metadata.subject}*
+                    hisoka.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `*Selamat datang @${num.split("@")[0]} Di ${metadata.subject}*
 		    *Patuhi rules grup ya 😃*` })
                 } else if (anu.action == 'remove') {
                     hisoka.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `*Selamat tinggal @${num.split("@")[0]} Beban grup 😜*` })
