@@ -500,7 +500,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('*Chat Owner*/n *https://wa.me/6282275576880?text=Assalamualaikum*')
+                m.reply('*Chat Owner* : *https://bit.ly/ir_ja*')
             }
             break
             case 'chat': {
