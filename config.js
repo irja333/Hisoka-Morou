@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282275576880','6282275576880','12202006957']
+global.owner = ['12202006957','6282275576880']
 global.premium = ['6282275576880']
 global.packname = '© IRJA'
 global.author = 'IG : irja_official'
@@ -33,12 +33,12 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '*loading...*',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 999
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
