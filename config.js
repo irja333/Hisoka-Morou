@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'f2116e96b4',
+	'https://zenzapi.xyz': '9d385a4e12bf',
 }
 
 // Other
