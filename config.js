@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['12202006957','6282275576880']
+global.owner = ['6282275576880']
 global.premium = ['6282275576880']
 global.packname = '© IRJA'
 global.author = 'IG : irja_official'
